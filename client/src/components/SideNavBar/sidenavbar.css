@@ -1,0 +1,11 @@
+.pointer {
+  cursor: pointer;
+}
+
+.icon-size {
+  font-size: 18px;
+}
+
+.notification-box {
+  text-transform: capitalize !important;
+}

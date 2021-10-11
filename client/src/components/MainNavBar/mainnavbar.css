@@ -1,0 +1,12 @@
+.logo {
+  width: 320px;
+}
+
+.anchor {
+  margin: auto;
+}
+
+.navigation {
+  display: flex;
+  width: 100%;
+}

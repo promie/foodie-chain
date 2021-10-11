@@ -1,0 +1,8 @@
+export enum ProductStatus {
+  FARMING,
+  MANUFACTURING,
+  SHIPPING,
+  RETAILING,
+  PURCHASING,
+  RECALLING,
+}

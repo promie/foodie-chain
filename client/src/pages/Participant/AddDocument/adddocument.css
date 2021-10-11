@@ -1,0 +1,9 @@
+.side-image-document {
+  width: 340px;
+  height:280px;
+  margin-top: 20px;
+}
+
+.document {
+  max-width: 1500px !important;
+}

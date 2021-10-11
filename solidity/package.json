@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "compile": "truffle compile",
+    "develop": "truffle develop",
+    "migrate": "truffle migrate --reset"
+  },
+  "devDependencies": {
+    "truffle": "^5.3.14",
+    "truffle-assertions": "^0.9.2"
+  }
+}
